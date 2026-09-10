@@ -1,7 +1,7 @@
 Задание 3. 
 Пример JSON
 
-json
+``` json
 {
   "id": 3,
   "title": "Clash Royale",
@@ -9,4 +9,4 @@ json
   "developer": "Supercell",
   "year": 2016
 }
-	
+```	
